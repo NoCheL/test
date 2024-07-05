@@ -12,3 +12,4 @@ public class Gun : MonoBehaviour
     public GameObject bulletImpact;//弾痕オブジェクト
 }
 aaaaaaaaaaa
+くぁｗせｄｒｆｔｇふじこｌ
